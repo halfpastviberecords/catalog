@@ -18,7 +18,7 @@ The tracks are compatible with most modern electronic dance music delivery infra
 * `Tips (Wax Mathews 2019 Mix)` is a rolling house rendition of Bridal Party's 2017 indie-pop number, featuring Juno synthesizer washes, shimmering guitars, and Suz Raudaschl's unique airy voice over a bed of finely-tuned drums and bass.
 * `Vertigo (Virgo Edit) (Wax Mathews Edit)` is a modern take on Alan Braxe's 1997 French house banger, originally stripped down by Thomas Bangalter, and later carefully tuned, boosted and sculpted by Wax Mathews to optimize the track for modern soundsystems.
 * `Study No. 33 (Wax Mathews Remix)` is a reimagining of Conlon Nancarrow's late 1960s composition for player piano, with the addition of bubbling acid lines, frenetic 909 drums and air-raid sirens to bring Nancarrow's composition to a modern audience.
-* `Love Come Down (Wax Mathews Edit)` is a no-nonsense, straighforward beef-up of Evelyn "Champagne" King's 1982 R&B hit, wherein the addition of snappy drums and a pitch-up operation has transformed the track into a peaktime house belter.
+* `Love Come Down (Wax Mathews Edit)` is a no-nonsense, straightforward beef-up of Evelyn "Champagne" King's 1982 R&B hit, wherein the addition of snappy drums and a pitch-up operation has transformed the track into a peaktime house belter.
 
 ## Credits
 * `Tips (Wax Mathews 2019 Mix)` - Composed by Suzannah Raudaschl and Joseph Leroux. Performed by Bridal Party. Produced and mixed by James Gray.
