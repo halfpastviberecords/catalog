@@ -20,7 +20,7 @@ We've done our best to provide complete backwards compatibility with all modern 
 * `strong disagreement about the quality of the beat` provides a hard hitting yet hypnotic experience with enough changeups to keep audience engagement. Perfect material for those late nights or early mornings.
 * `Chomsky chumps` is a subdued sonic exploration of lush synths, rhythmic textures, and human voice. Halfway between ambient and trance, this track can push in one of two ways: as a lower gear necessary for punching into overdrive or as the landing gear for finishing of a set.
 * `anxious stonks` will, as the name suggests, provide an experience of anxiety and tension. However, this tension is not altogether unpleasant and allows for a range of consequent track choices. 
-* `strong disagreement about the quality of the beat (Dataist's Interdimensional Radio Edit)` maintains the hypnotic vibe while emphasizing the more rave-y aspects of the original.
+* `strong disagreement about the quality of the beat (Dataist's Interdimensional Radio Edit)` maintains a hypnotic vibe while emphasizing the more rave-y aspects of the original.
 
 ## Credits
 * `strong disagreement about the quality of the beat` produced by Lukas Schmücker and mixed by MC Chikenwing
