@@ -23,9 +23,7 @@ We've done our best to provide complete backwards compatibility with all modern 
 * `strong disagreement about the quality of the beat (Dataist's Interdimensional Radio Edit)` maintains a hypnotic vibe while emphasizing the more rave-y aspects of the original.
 
 ## Credits
-* `strong disagreement about the quality of the beat` produced by Lukas Schmücker and mixed by MC Crispy Chicken
-* `Chomsky chumps` produced by Lukas Schmücker and mixed by MC Crispy Chicken
-* `anxious stonks` produced by Lukas Schmücker and mixed by MC Crispy Chicken
+* `strong disagreement about the quality of the beat`, `Chomsky chumps`, and `anxious stonks` produced and mixed by Lukas Schmücker
 * `strong disagreement about the quality of the beat (Dataist's Interdimensional Radio Edit)` produced and mixed by Steven Bjornson
 * All tracks mastered by MC Crispy Chicken
 * Cover design by Steven Bjornson
