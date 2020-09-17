@@ -18,12 +18,12 @@ Keeping with HPRs mandate of delivering quality updates you can trust, we've wor
 We've done our best to provide complete backwards compatibility with all modern music systems knowing that the modern DJ must be ready for any use case. From the car to the basement and beyond, you can trust these tracks to move the bodies.
 
 * `strong disagreement about the quality of the beat` provides a hard hitting yet hypnotic experience with enough changeups to keep audience engagement. Perfect material for those late nights or early mornings.
-* `Chomsky chumps` is a subdued sonic exploration of lush synths, rhythmic textures, and human voice. Halfway between ambient and trance, this track can push in one of two ways: as a lower gear necessary for punching into overdrive or as the landing gear for finishing of a set.
+* `chomsky chumps` is a subdued sonic exploration of lush synths, rhythmic textures, and human voice. Halfway between ambient and trance, this track can push in one of two ways: as a lower gear necessary for punching into overdrive or as the landing gear for finishing of a set.
 * `anxious stonks` will, as the name suggests, provide an experience of anxiety and tension. However, this tension is not altogether unpleasant and allows for a range of consequent track choices. 
 * `strong disagreement about the quality of the beat (Dataist's Interdimensional Radio Edit)` maintains a hypnotic vibe while emphasizing the more rave-y aspects of the original.
 
 ## Credits
-* `strong disagreement about the quality of the beat`, `Chomsky chumps`, and `anxious stonks` produced and mixed by Lukas Schmücker
+* `strong disagreement about the quality of the beat`, `chomsky chumps`, and `anxious stonks` produced and mixed by Lukas Schmücker
 * `strong disagreement about the quality of the beat (Dataist's Interdimensional Radio Edit)` produced and mixed by Steven Bjornson
 * All tracks mastered by MC Crispy Chicken
 * Cover design by Steven Bjornson
