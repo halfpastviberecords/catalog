@@ -1,4 +1,4 @@
-# HPR-001 Unsolicited Tracks Volume 1.
+# HPR001 Unsolicited Tracks Volume 1.
 
 ## About
 This is the debut release from `Half Past Vibe Records`, a record label leveraging the latest and greatest technological innovations of the twenty-first-century. We operate our business in the virtual plane of the World Wide Web, and are physically split between Berlin, Germany and Victoria, Canada.
