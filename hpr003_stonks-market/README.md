@@ -3,8 +3,8 @@
 **Release Date:** 25.09.2020
 
 ## About
-Half Past Vibe Records is pleased to share "Stonks Market"
-This release marks the first release by Düsseldorf based producer and DJ [Anodized](https://soundcloud.com/anodize_d). Usually a traditional Deutchland techno aficionado, with this release Anodized flexes his capacity for diversity through tracks flavoured with the roots of house.
+Half Past Vibe Records is pleased to share "Stonks Market."
+This release marks the first release by Düsseldorf based producer and DJ [Anodized](https://soundcloud.com/anodize_d). Usually a traditional Deutschland techno aficionado, with this release Anodized flexes his capacity for diversity through tracks flavoured with the roots of house.
 
 As an additional bonus feature, included in this release is an edit by label co-founder [Dataist](https://www.mixcloud.com/dataist/).
 
