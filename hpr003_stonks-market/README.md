@@ -1,6 +1,6 @@
 # HPR003 Stonks Market
 
-**Release Date:** 25.09.2020
+**Release Date:** 19.09.2020
 
 ## About
 Half Past Vibe Records is pleased to share "Stonks Market."
