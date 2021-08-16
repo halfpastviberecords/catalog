@@ -5,7 +5,7 @@
 ## About
 Half Past Vibe Records is pleased to share "Vielen Dank."
 
-This release represents the culmination of over a year of work by HPR label co-founder [Dataist](https://mixcloud.com/dataist). This also marks the first full release on the label. Reflecting the experience of spending two years in a foreign land--with much of the experience spanning the global pandemic--this record is a fusion of the heavier and fast side of the local music scene with the softer and slower music of Dataist's roots. In short, this is the beginning of a love letter to Germany and all the wonderful people he met along the journey.
+This release represents the culmination of over a year of work by HPR label co-founder [Dataist](https://mixcloud.com/dataist). This also marks his first full release on the label. Reflecting the experience of spending two years in a foreign land--with much of the experience spanning the global pandemic--this record is a fusion of the heavier and fast side of the local music scene with the softer and slower music of Dataist's roots. In short, this is the beginning of a love letter to Germany and all the wonderful people he met along the journey.
 
 Our mission at `Half Past Vibe Records` is to develop and distribute *bleeding-edge auditory dance solutions*, to provide disc jockeys and electronic music professionals with the tools they need to deliver *effective, high-quality performances* and to engage their dancefloor customers.
 
