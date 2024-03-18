@@ -18,7 +18,7 @@ All tracks have been stress-tested in production dancefloor sets over the past d
 
 3. `Hydroplane City` is a straightforward, tropical nod to the 90s, with melodies and chords using classic presets from both the DX7 and Roland JD-990, and a thick Moog bassline.
 
-4. `Truckee` started its life as a corporate jingle, before being twisted beyond recognition into wonky, filtered house tune inspired by the sounds of the Canadian Riviera.
+4. `Truckee` started its life as a corporate jingle, before being twisted beyond recognition into a wonky, filtered house tune inspired by the sounds of the Canadian Riviera.
 
 5. `All You Need` is a mesmerising house belter built upon a pitch-bent DX7 patch from the annals of the web's SysEx collection, a powerful bass ostinato, and a sample of Brandy's "I Wanna Be Down."
 
