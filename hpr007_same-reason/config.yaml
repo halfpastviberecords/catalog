@@ -1,0 +1,28 @@
+all:
+  year: 2025
+  album name: Same Reason 
+  artist name: Mitchellitchell
+  copyright: Half Past Vibe Records, 2025
+  serial number: HPR007 
+  composer: Mitchell Rossit-Lavigne
+  genre: house 
+  comment: |
+    Same Reason (Original Mix) produced and mixed by Mitchell Rossit-Lavigne. 
+    Same Reason (Anodized Remix) remixed by Lukas Schmücker.
+    Same Reason (Okibi UK Dub) remixed by Christopher Wakefield.
+    Mastering by Pheek
+    Cover design by Erick Ortiz
+  catalog number: HPR007
+  cover art: HPR007.png
+
+tracks:
+  1:
+    title: Same Reason (Original Mix)
+    file: HPR007_01_Mitchellitchell_-_Same_Reason_(Original_Mix).aiff
+  2:
+    title: Same Reason (Anodized Remix)
+    file: HPR007_02_Mitchellitchell_-_Same_Reason_(Anodized_Remix).aiff
+  3:
+    title: Same Reason (Okibi UK Dub)
+    file: HPR007_03_Mitchellitchell_-_Same_Reason_(Okibi_UK_Dub).aiff
+
