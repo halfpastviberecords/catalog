@@ -9,7 +9,7 @@ all:
   comment: |
     Same Reason (Original Mix) produced and mixed by Mitchell Rossit-Lavigne. 
     Same Reason (Anodized Remix) remixed by Lukas Schmücker.
-    Same Reason (Okibi Dub) remixed by Christopher Wakefield.
+    Same Reason (Okibi UK Dub) remixed by Christopher Wakefield.
     Mastering by Pheek
     Cover design by Erick Ortiz
   catalog number: HPR007
@@ -23,6 +23,6 @@ tracks:
     title: Same Reason (Anodized Remix)
     file: HPR007_02_Mitchellitchell_-_Same_Thing_(Anodized_Remix).aiff
   3:
-    title: Same Reason (Okibi Dub)
+    title: Same Reason (Okibi UK Dub)
     file: HPR007_03_Mitchellitchell_-_Same_Thing_(Okibi_UK_Dub).aiff
 
