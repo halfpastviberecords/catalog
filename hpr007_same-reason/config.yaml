@@ -18,11 +18,11 @@ all:
 tracks:
   1:
     title: Same Reason (Original Mix)
-    file: HPR007_01_Mitchellitchell_-_Same_Thing_(Original_Mix).aiff
+    file: HPR007_01_Mitchellitchell_-_Same_Reason_(Original_Mix).aiff
   2:
     title: Same Reason (Anodized Remix)
-    file: HPR007_02_Mitchellitchell_-_Same_Thing_(Anodized_Remix).aiff
+    file: HPR007_02_Mitchellitchell_-_Same_Reason_(Anodized_Remix).aiff
   3:
     title: Same Reason (Okibi UK Dub)
-    file: HPR007_03_Mitchellitchell_-_Same_Thing_(Okibi_UK_Dub).aiff
+    file: HPR007_03_Mitchellitchell_-_Same_Reason_(Okibi_UK_Dub).aiff
 
