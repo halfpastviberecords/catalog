@@ -21,7 +21,7 @@ We believe this offering of house tracks -- broad enough to cover all your bases
 ## Credits
 * Same Reason (Original Mix) produced and mixed by Mitchell Rossit-Lavigne. 
 * Same Reason (Anodized Remix) remixed by Lukas Schmücker.
-* Same Reason (Okibi Dub) remixed by Christopher Wakefield.
+* Same Reason (Okibi UK Dub) remixed by Christopher Wakefield.
 * Mastering by Pheek
 * Cover design by Erick Ortiz
 
