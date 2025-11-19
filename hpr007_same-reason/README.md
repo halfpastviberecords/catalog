@@ -1,6 +1,6 @@
 # HPR007: Mitchellitchell - Same Reason
 
-**Release Date:** 2025.11.14
+**Release Date:** 2025.12.05
 
 ## About
 Half Past Vibe Records is pleased to present Mitchellitchell's first release on HPR "Same Reason."
@@ -23,7 +23,7 @@ We believe this offering of house tracks -- broad enough to cover all your bases
 * Same Reason (Anodized Remix) remixed by Lukas Schmücker.
 * Same Reason (Okibi Dub) remixed by Christopher Wakefield.
 * Mastering by Pheek
-* Cover design by .
+* Cover design by Erick Ortiz
 
 Our mission at `Half Past Vibe Records` is to develop and distribute *bleeding-edge auditory dance solutions*, to provide disc jockeys and electronic music professionals with the tools they need to deliver *effective, high-quality performances* and to engage their dancefloor customers.
 
